@@ -18,3 +18,7 @@ My first project ( AKA the recipies project) from The Odin Project Course!
     - added the recipie for the new dish
     - updated the README.md file for the information about 2nd and 3rd commit
     -finished the project "Odin Recipies" from The Odin Project!
+
+4th commit 
+    - fixed a bug, grilled sandwich link not showing up dbecause i accidently pushed without saving the index.html
+    
