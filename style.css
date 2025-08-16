@@ -1,0 +1,75 @@
+ #main {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+#home_title {
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 80px;
+}
+
+#recipies {
+    text-align: center;
+    margin-top: 100px;
+}
+#fries, #sand, #donuts{
+    padding-right: 50px;  
+}
+
+#info{
+    text-align: center;
+    font-size: 20px;
+    color: azure;
+}
+span{
+    color: yellow;
+    font-style: italic;
+}
+
+#home {
+    font-size: 30px;
+    font-family: cursive;
+    background-color:azure;
+    margin: 30px 30px;
+    border-radius: 10px;
+    position: sticky;
+}
+#home:hover{
+    font-size: 40px;
+}
+#home:active{
+    background-color: black;
+    color: azure;
+}
+
+#recipie_info{
+    color: rgb(255, 255, 255);
+    padding: 100px 300px 200px;
+    font-size: 25px;
+
+}
+#recipie_title{
+    margin-top: 150px;
+    color: white;
+    text-align: center;
+}
+#sand_background {
+    background-image: url(/recipies/sand_background.png);
+    background-size: cover;
+    
+}
+
+#donut_background{
+    background-image: url(/recipies/donut_background.png);
+    background-size: auto;
+}
+
+#fries_background{
+    background-image: url(/recipies/fries_background.jpg);
+    background-size: cover;
+}
+
