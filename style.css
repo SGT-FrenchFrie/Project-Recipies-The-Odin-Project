@@ -58,18 +58,18 @@ span{
     text-align: center;
 }
 #sand_background {
-    background-image: url(/recipies/sand_background.png);
+    background-image: url(./recipies/sand_background.png);
     background-size: cover;
     
 }
 
 #donut_background{
-    background-image: url(/recipies/donut_background.png);
+    background-image: url(./recipies/donut_background.png);
     background-size: auto;
 }
 
 #fries_background{
-    background-image: url(/recipies/fries_background.jpg);
+    background-image: url(./recipies/fries_background.jpg);
     background-size: cover;
 }
 
